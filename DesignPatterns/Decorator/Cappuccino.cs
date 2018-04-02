@@ -12,6 +12,8 @@ namespace Decorator {
         public override void AdicionarIngredientes()
         {
             GetIngredientes.Add("espuma de leite fervida");
+            GetIngredientes.Add("leite");
+            GetIngredientes.Add("canela");            
         }
     }
 }

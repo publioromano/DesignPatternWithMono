@@ -1,0 +1,6 @@
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\bin\Debug\Decorator.dll
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\obj\Debug\Decorator.dll
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

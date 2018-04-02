@@ -1,0 +1,9 @@
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\bin\Debug\Invoker.Decorator.exe
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\bin\Debug\Invoker.Decorator.pdb
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\bin\Debug\Decorator.dll
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\bin\Debug\Decorator.pdb
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\obj\Debug\Invoker.Decorator.csprojResolveAssemblyReference.cache
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\obj\Debug\Invoker.Decorator.csproj.CoreCompileInputs.cache
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\obj\Debug\Invoker.Decorator.csproj.CopyComplete
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\obj\Debug\Invoker.Decorator.exe
+c:\Users\xbbkjmg\Documents\publioromano\DesignPatternWithMono\DesignPatterns\Invoker.Decorator\obj\Debug\Invoker.Decorator.pdb

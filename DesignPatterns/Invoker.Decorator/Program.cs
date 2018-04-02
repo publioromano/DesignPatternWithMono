@@ -7,9 +7,11 @@ namespace Invoker.Decorator
 	{
 		public static void Main (string[] args)
 		{
-			ICafe cafe = new Cafe ();
-			var cafeComLeite = new CafeComLeite (cafe);
-			var cappuccino = new Cappuccino (cafe);
+			ICafe cafe1 = new Cafe ();
+			var cafeComLeite = new CafeComLeite (cafe1);
+
+			ICafe cafe2 = new Cafe ();
+			var cappuccino = new Cappuccino (cafe2);
 
 			Console.WriteLine (cafeComLeite.GetDescricao());
 			Console.WriteLine (cappuccino.GetDescricao());
