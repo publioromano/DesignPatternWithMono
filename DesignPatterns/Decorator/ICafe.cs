@@ -1,11 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-namespace Decorator
-{
-	public interface ICafe
-	{
-		double Preco { get; }
-		List<string> Ingredientes { get; }
-	}
+namespace Decorator {
+    public interface ICafe {
+        double GetPreco { get; }
+        List<string> GetIngredientes { get; }
+    }
 }
-

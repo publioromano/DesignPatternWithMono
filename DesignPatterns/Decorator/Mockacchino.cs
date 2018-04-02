@@ -2,8 +2,8 @@ using System;
 using System.Collections.Generic;
 
 namespace Decorator {
-    public class Cappuccino : Decorator {
-        public Cappuccino (ICafe cafe) : base (cafe) { 
+    public class Mockacchino : Decorator {
+        public Mockacchino (ICafe cafe) : base (cafe) { 
             AdicionarIngredientes();
         }
 
@@ -12,6 +12,9 @@ namespace Decorator {
         public override void AdicionarIngredientes()
         {
             GetIngredientes.Add("espuma de leite fervida");
+            GetIngredientes.Add("leite");
+            GetIngredientes.Add("canela");   
+            GetIngredientes.Add("pó de cacau");
         }
     }
 }

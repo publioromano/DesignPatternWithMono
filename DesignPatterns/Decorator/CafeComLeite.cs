@@ -1,31 +1,16 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace Decorator
-{
-	public class CafeComLeite : Decorator
-	{
-		public CafeComLeite (ICafe cafe) : base (cafe)
-		{
-		}
+namespace Decorator {
+    public class CafeComLeite : Decorator {
+        public CafeComLeite (ICafe cafe) : base (cafe) { 
+            AdicionarIngredientes();
+        }
 
-		public override double Preco { get { return this._cafe.Preco + 0.30; } }
-
-		public override List<string> Ingredientes 
-		{ 
-			get 
-			{
-				var ingredientes = new List<string> ();
-				ingredientes.AddRange(this._cafe.Ingredientes);
-				ingredientes.Add ("leite");
-				return ingredientes;
-			}
-		}
-
-		public override string GetDescricao ()
-		{
-			return string.Format ("[CafeComLeite: Preco={0}, Ingredientes={1}]", Preco, GetIngredientes());
-		}
-	}
+        public override double GetPreco { get { return this._cafe.GetPreco + 0.30; } }
+        public override void AdicionarIngredientes()
+        {
+            GetIngredientes.Add("leite");
+        }
+    }
 }
-				
