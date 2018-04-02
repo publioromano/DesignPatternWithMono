@@ -1,0 +1,7 @@
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/bin/Debug/Invoker.Decorator.exe.mdb
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/bin/Debug/Invoker.Decorator.exe
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/obj/Debug/Invoker.Decorator.exe
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/obj/Debug/Invoker.Decorator.exe.mdb
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/bin/Debug/Decorator.dll
+/home/publioromano/Estudando/DesignPatterns/Invoker.Decorator/bin/Debug/Decorator.dll.mdb

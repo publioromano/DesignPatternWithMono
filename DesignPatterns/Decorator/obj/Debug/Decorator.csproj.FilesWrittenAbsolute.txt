@@ -1,0 +1,5 @@
+/home/publioromano/Estudando/DesignPatterns/Decorator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/publioromano/Estudando/DesignPatterns/Decorator/bin/Debug/Decorator.dll.mdb
+/home/publioromano/Estudando/DesignPatterns/Decorator/bin/Debug/Decorator.dll
+/home/publioromano/Estudando/DesignPatterns/Decorator/obj/Debug/Decorator.dll
+/home/publioromano/Estudando/DesignPatterns/Decorator/obj/Debug/Decorator.dll.mdb
